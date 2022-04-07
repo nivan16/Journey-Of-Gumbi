@@ -37,3 +37,9 @@ NPM to manage project dependencies
       the action of user interaction key (probably will be 'e'!). Also will be adding the graphics to canvas!
 
   * Thursday Morning: Deploy to GitHub pages, and definitely rewrite this README as a production one!
+
+
+## Credits
+icons8.com for the Favicon
+game-endeavor.itch.io/mystic-woods for the character, and the slimes
+https://pipoya.itch.io/pipoya-rpg-tileset-32x32 for the tileset and premade background
