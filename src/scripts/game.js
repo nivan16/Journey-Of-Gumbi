@@ -73,7 +73,7 @@ class Game {
     this.removeOutOfBoundsBullet();
     this.resetBounds();
     
-
+    // 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
   }
 
   allPeople(){
