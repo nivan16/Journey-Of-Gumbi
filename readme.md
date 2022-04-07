@@ -7,6 +7,8 @@ Similar to Legend of Zelda games of the past, it is graphically
 a 2D dropdown view of the game world and characters. Additionally,
 there is basic combat (press space to attack), items, and armor!
 
+Live Link: https://nivan16.github.io/Journey-Of-Gumbi/
+
 # # Functionality & MVPs # #
 
 In Gumbi's Journey, users will be able to:
